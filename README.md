@@ -38,3 +38,6 @@ def createVersion() {
     return new Date().format('yyyyMM') + "-${env.BUILD_NUMBER}"
 }
 ```
+执行结果：
+![](img/image.png)
+
