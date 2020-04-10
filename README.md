@@ -39,5 +39,6 @@ def createVersion() {
 }
 ```
 执行结果：
-![](img/jenkins_library_result.png)
-
+ <tr>
+    <td><img src="img/jenkins_library_result.png"/></td>
+ </tr>
